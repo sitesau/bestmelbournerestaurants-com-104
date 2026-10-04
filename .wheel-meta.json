@@ -1,0 +1,19 @@
+{
+  "wheel_id": 322,
+  "structure": "umbrella",
+  "slug": "bestmelbournerestaurants-com-104",
+  "project": "restaurants-melbourne-costs-bdc8c97a5d9129340c9e3a9b47a074961f4",
+  "parent_t1_ref": "bestmelbournerestaurants-com-151",
+  "node_role": "feeder",
+  "money_target": "bestmelbournerestaurants.com.au",
+  "primary_kw": "restaurants melbourne costs",
+  "intended_url": "https://sites-e470-2.web.app/restaurants-melbourne-costs-bdc8c97a5d9129340c9e3a9b47a074961f4/",
+  "writeback_nonce": "cddcc74f313fb0f6",
+  "links": [
+    {
+      "target_url": "http://restaurants-melbourne-502c9d844d6216570e5f503097564e9bbbe4267f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "restaurants melbourne",
+      "rel": "follow"
+    }
+  ]
+}
